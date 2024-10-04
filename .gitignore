@@ -1,7 +1,23 @@
-build/
-.idea/
+# Kotlin/Java
+*.class
+*.jar
+*.war
 *.iml
+out/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Logs
+*.log
+
+# Maven/Gradle
+target/
 .gradle/
-/out/
-.kotlin
+build/
+
 .DS_Store
